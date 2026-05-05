@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "maximum-dash",
+    "titleJa": "マキシマムダッシュ",
+    "titleEn": "Maximum Dash",
+    "genre": "ボカロ風",
+    "mood": ["元気", "前向き", "疾走感", "ポップ"],
+    "colors": ["シアンブルー", "マゼンタピンク", "黄色", "白", "ダークネイビー"],
+    "summary": "シアンとマゼンタの軌跡を残して全力で走る、無邪気なハイスピードキャラクター。",
+    "profileSheet": "assets/charsheets/maximum-dash/profile.png",
+    "simpleSheet": "assets/charsheets/maximum-dash/simple.png"
+  },
+  {
+    "slug": "uzan-no-batto",
+    "titleJa": "雨残の抜刀",
+    "titleEn": "Rain Remnant Draw",
+    "genre": "和楽器ロック",
+    "mood": ["孤独", "緊張", "戦闘直前の静寂"],
+    "colors": ["ダークネイビー", "スチールブルー", "白光", "ピンク"],
+    "summary": "雨の石畳に膝をつき、抜刀の一瞬まで呼吸を細くする姉。静けさの中で迷いを断つ。",
+    "relationship": "止まらない覚悟の姉",
+    "profileSheet": "assets/charsheets/uzan-no-batto/profile.png",
+    "simpleSheet": "assets/charsheets/uzan-no-batto/simple.png"
+  },
+  {
+    "slug": "tomaranai-kakugo",
+    "titleJa": "止まらない覚悟",
+    "titleEn": "Resolve Not to Stop",
+    "genre": "和楽器ロック",
+    "mood": ["疾走", "決意", "夜の鼓動"],
+    "colors": ["ダークネイビー", "黒", "赤", "青", "オレンジ"],
+    "summary": "雨の都市夜景を、緋色の差し色と刀で走り抜ける妹。止まれない理由を走りながら探す。",
+    "relationship": "雨残の抜刀の妹",
+    "profileSheet": "assets/charsheets/tomaranai-kakugo/profile.png",
+    "simpleSheet": "assets/charsheets/tomaranai-kakugo/simple.png"
+  }
+]
