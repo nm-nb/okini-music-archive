@@ -203,5 +203,211 @@
     },
     "profileSheet": "assets/charsheets/kaede-naru-yoru/profile.png",
     "simpleSheet": "assets/charsheets/kaede-naru-yoru/simple.png"
+  },
+  {
+    "slug": "shionari-no-yaiba",
+    "titleJa": "潮鳴りノ刃",
+    "titleEn": "Blade of the Tide Roar",
+    "genre": "和楽器ロック",
+    "mood": [
+      "荒波",
+      "決意",
+      "神社",
+      "疾走",
+      "刀"
+    ],
+    "colors": [
+      "白",
+      "墨色",
+      "海青",
+      "灰緑",
+      "淡い金"
+    ],
+    "summary": "断崖の社と荒海を背にした、白衣と刀の和風剣士。風と波に削られた静かな覚悟をまとう。",
+    "profile": {
+      "characterName": "潮凪 リン",
+      "romanization": "Shionagi Rin",
+      "sex": "女",
+      "role": "断崖の社と荒海を背にした、白衣と刀の和風剣士。風と波に削られた静かな覚悟をまとう。"
+    },
+    "profileSheet": "assets/charsheets/shionari-no-yaiba/profile.png",
+    "simpleSheet": "assets/charsheets/shionari-no-yaiba/simple.png"
+  },
+  {
+    "slug": "torii-kage-no-seika",
+    "titleJa": "鳥居影ノ誓火",
+    "titleEn": "Oathfire Under the Torii Shadow",
+    "genre": "和楽器ロック",
+    "mood": [
+      "鳥居",
+      "誓い",
+      "影",
+      "和風",
+      "内なる炎"
+    ],
+    "colors": [
+      "朱赤",
+      "藍黒",
+      "土色",
+      "生成り",
+      "空色"
+    ],
+    "summary": "朱い鳥居の下に立つ、落ち着いた視線の和装少女。陽光と影の境目で誓いを抱く。",
+    "profile": {
+      "characterName": "朱鳥 カナメ",
+      "romanization": "Akatori Kaname",
+      "sex": "女",
+      "role": "朱い鳥居の下に立つ、落ち着いた視線の和装少女。陽光と影の境目で誓いを抱く。"
+    },
+    "profileSheet": "assets/charsheets/torii-kage-no-seika/profile.png",
+    "simpleSheet": "assets/charsheets/torii-kage-no-seika/simple.png"
+  },
+  {
+    "slug": "fudabi-no-ranbu",
+    "titleJa": "札火ノ乱舞",
+    "titleEn": "Talisman Fire Dance",
+    "genre": "和楽器ロック",
+    "mood": [
+      "呪符",
+      "青炎",
+      "月",
+      "巫女",
+      "激しさ"
+    ],
+    "colors": [
+      "白",
+      "紅",
+      "藍",
+      "青炎",
+      "黒",
+      "金",
+      "蓮桃"
+    ],
+    "summary": "巨大な蓮灯の前に立つ光の巫女アヤメと、青い蓮の陰で札火を支える影の巫女ユラの二人組。",
+    "profile": {
+      "characterName": "符月 アヤメ / 蓮灯 ユラ",
+      "romanization": "Fuzuki Ayame / Hasutou Yura",
+      "sex": "女",
+      "role": "巨大な蓮灯の前に立つ光の巫女アヤメと、青い蓮の陰で札火を支える影の巫女ユラの二人組。1枚のキャラクターシートに二人とも入れる。"
+    },
+    "profileSheet": "assets/charsheets/fudabi-no-ranbu/profile.png",
+    "simpleSheet": "assets/charsheets/fudabi-no-ranbu/simple.png"
+  },
+  {
+    "slug": "soukan-no-braver",
+    "titleJa": "蒼冠のブレイバー",
+    "titleEn": "Azure-Crowned Braver",
+    "genre": "アニメOP風",
+    "mood": [
+      "勇気",
+      "王道",
+      "蒼",
+      "希望",
+      "冒険"
+    ],
+    "colors": [
+      "蒼",
+      "白",
+      "金",
+      "淡緑",
+      "クリーム"
+    ],
+    "summary": "青と金の装飾に包まれた少年騎士。花と波の紋様を背負い、真正面から未来へ手を伸ばす。",
+    "profile": {
+      "characterName": "蒼冠 レオ",
+      "romanization": "Soukan Leo",
+      "sex": "男",
+      "role": "青と金の装飾に包まれた少年騎士。花と波の紋様を背負い、真正面から未来へ手を伸ばす。"
+    },
+    "profileSheet": "assets/charsheets/soukan-no-braver/profile.png",
+    "simpleSheet": "assets/charsheets/soukan-no-braver/simple.png"
+  },
+  {
+    "slug": "yusen-restart",
+    "titleJa": "夕閃リスタート",
+    "titleEn": "Dusk Flash Restart",
+    "genre": "アニメOP風",
+    "mood": [
+      "夕焼け",
+      "再出発",
+      "手を伸ばす",
+      "青春",
+      "疾走"
+    ],
+    "colors": [
+      "夕橙",
+      "藍",
+      "白",
+      "茶",
+      "薄紫"
+    ],
+    "summary": "夕焼けの街を背に手を伸ばす少女。弱さを抱えたまま走り出す主人公感がある。",
+    "profile": {
+      "characterName": "夕凪 ミハル",
+      "romanization": "Yuunagi Miharu",
+      "sex": "女",
+      "role": "夕焼けの街を背に手を伸ばす少女。弱さを抱えたまま走り出す主人公感がある。"
+    },
+    "profileSheet": "assets/charsheets/yusen-restart/profile.png",
+    "simpleSheet": "assets/charsheets/yusen-restart/simple.png"
+  },
+  {
+    "slug": "citrus-code",
+    "titleJa": "シトラスコード",
+    "titleEn": "Citrus Code",
+    "genre": "ボカロ風",
+    "mood": [
+      "カラフル",
+      "デジタル",
+      "中毒性",
+      "柑橘",
+      "ポップ"
+    ],
+    "colors": [
+      "シアン",
+      "レモンイエロー",
+      "白",
+      "ピンク",
+      "黒"
+    ],
+    "summary": "シアンと黄色のポップな色彩に包まれた近未来少女。軽さと毒気のあるボカロ感。",
+    "profile": {
+      "characterName": "柑野 ルカ",
+      "romanization": "Kanno Ruka",
+      "sex": "女",
+      "role": "シアンと黄色のポップな色彩に包まれた近未来少女。軽さと毒気のあるボカロ感。"
+    },
+    "profileSheet": "assets/charsheets/citrus-code/profile.png",
+    "simpleSheet": "assets/charsheets/citrus-code/simple.png"
+  },
+  {
+    "slug": "hanafuda-hirari",
+    "titleJa": "花札ひらり",
+    "titleEn": "Hanafuda Flutter",
+    "genre": "和楽器ポップ",
+    "mood": [
+      "花札",
+      "祝祭",
+      "和ポップ",
+      "軽やか",
+      "月明かり"
+    ],
+    "colors": [
+      "白",
+      "紅",
+      "藍",
+      "青",
+      "金",
+      "薄桃"
+    ],
+    "summary": "札と青い炎に囲まれた華やかな和装少女。ロックよりも軽やかな祝祭感へ寄せる。",
+    "profile": {
+      "characterName": "花守 イロハ",
+      "romanization": "Hanamori Iroha",
+      "sex": "女",
+      "role": "札と青い炎に囲まれた華やかな和装少女。ロックよりも軽やかな祝祭感へ寄せる。"
+    },
+    "profileSheet": "assets/charsheets/hanafuda-hirari/profile.png",
+    "simpleSheet": "assets/charsheets/hanafuda-hirari/simple.png"
   }
 ]
