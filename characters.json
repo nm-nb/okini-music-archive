@@ -91,5 +91,117 @@
     },
     "profileSheet": "assets/charsheets/beniseido-signal/profile.png",
     "simpleSheet": "assets/charsheets/beniseido-signal/simple.png"
+  },
+  {
+    "slug": "kosen-no-chikai",
+    "titleJa": "紅閃ノ誓い",
+    "titleEn": "Crimson Flash Oath",
+    "genre": "和楽器ロック",
+    "mood": [
+      "決意",
+      "紅蓮",
+      "疾走",
+      "剣戟"
+    ],
+    "colors": [
+      "黒",
+      "白",
+      "深紅",
+      "金",
+      "炎色"
+    ],
+    "summary": "黒白の髪と紅い瞳を持つ女剣士。鳥居前で抜刀し、燃える刃に誓いを刻む。",
+    "profile": {
+      "characterName": "紅月 サヤ",
+      "romanization": "Akatsuki Saya",
+      "sex": "女",
+      "role": "紅い太刀で迷いを断つ巫女剣士"
+    },
+    "profileSheet": "assets/charsheets/kosen-no-chikai/profile.png",
+    "simpleSheet": "assets/charsheets/kosen-no-chikai/simple.png"
+  },
+  {
+    "slug": "ren-u-no-kage",
+    "titleJa": "蓮雨ノ影",
+    "titleEn": "Lotus Rain Shadow",
+    "genre": "和楽器ロック",
+    "mood": [
+      "静寂",
+      "雨",
+      "影",
+      "内なる炎"
+    ],
+    "colors": [
+      "青灰",
+      "深緑",
+      "薄金",
+      "墨色",
+      "水色"
+    ],
+    "summary": "大きな笠と青灰の着物をまとい、蓮の湿地を静かに歩く影の旅人。",
+    "profile": {
+      "characterName": "水蓮 ミオ",
+      "romanization": "Suiren Mio",
+      "sex": "女",
+      "role": "雨音の奥に刃を隠す旅の術者"
+    },
+    "profileSheet": "assets/charsheets/ren-u-no-kage/profile.png",
+    "simpleSheet": "assets/charsheets/ren-u-no-kage/simple.png"
+  },
+  {
+    "slug": "hakkou-no-hangyakusha",
+    "titleJa": "白光の反逆者",
+    "titleEn": "White Light Rebel",
+    "genre": "アニメOP風",
+    "mood": [
+      "覚醒",
+      "反逆",
+      "白光",
+      "希望"
+    ],
+    "colors": [
+      "白",
+      "銀",
+      "黒",
+      "スチールブルー",
+      "淡い金"
+    ],
+    "summary": "崩れた大聖堂の光へ剣を掲げる少年剣士。逆光の中で背中から決意を語る。",
+    "profile": {
+      "characterName": "白城 レン",
+      "romanization": "Shiroki Ren",
+      "sex": "男",
+      "role": "崩壊都市で光を奪い返す少年剣士"
+    },
+    "profileSheet": "assets/charsheets/hakkou-no-hangyakusha/profile.png",
+    "simpleSheet": "assets/charsheets/hakkou-no-hangyakusha/simple.png"
+  },
+  {
+    "slug": "kaede-naru-yoru",
+    "titleJa": "楓鳴る夜",
+    "titleEn": "Maple Ringing Night",
+    "genre": "和楽器ポップ",
+    "mood": [
+      "温かい",
+      "秋夜",
+      "きらめき",
+      "和ポップ"
+    ],
+    "colors": [
+      "紅葉色",
+      "琥珀",
+      "黒",
+      "白",
+      "金"
+    ],
+    "summary": "紅葉の夜に三味線を抱え、やわらかな灯りの中で笑う演奏少女。",
+    "profile": {
+      "characterName": "楓音 ユイ",
+      "romanization": "Kaedeoto Yui",
+      "sex": "女",
+      "role": "紅葉の灯りを音に変える三味線少女"
+    },
+    "profileSheet": "assets/charsheets/kaede-naru-yoru/profile.png",
+    "simpleSheet": "assets/charsheets/kaede-naru-yoru/simple.png"
   }
 ]
