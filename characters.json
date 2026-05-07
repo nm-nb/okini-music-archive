@@ -468,5 +468,35 @@
     },
     "profileSheet": "assets/charsheets/gesshoku-code/profile.png",
     "simpleSheet": "assets/charsheets/gesshoku-code/simple.png"
+  },
+  {
+    "slug": "nekofuda-koyomi",
+    "titleJa": "猫札こよみ",
+    "titleEn": "Nekofuda Koyomi",
+    "genre": "和楽器ポップ",
+    "mood": [
+      "縁側",
+      "猫",
+      "暦札",
+      "木漏れ日",
+      "やさしい和ポップ"
+    ],
+    "colors": [
+      "黒",
+      "赤",
+      "金茶",
+      "夕焼け黄",
+      "白",
+      "深緑"
+    ],
+    "summary": "縁側で暦札を読み、白い使い猫と一緒に小さな願いを歌にする猫耳少女。",
+    "profile": {
+      "characterName": "花猫 こより",
+      "romanization": "Hananeko Koyori",
+      "sex": "女",
+      "role": "暦札と季節の願いを歌にする和楽器ポップ・ヒロイン"
+    },
+    "profileSheet": "assets/charsheets/nekofuda-koyomi/profile.png",
+    "simpleSheet": "assets/charsheets/nekofuda-koyomi/simple.png"
   }
 ]
