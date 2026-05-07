@@ -409,5 +409,34 @@
     },
     "profileSheet": "assets/charsheets/hanafuda-hirari/profile.png",
     "simpleSheet": "assets/charsheets/hanafuda-hirari/simple.png"
+  },
+  {
+    "slug": "tenyoku-rewrite",
+    "titleJa": "天翼リライト",
+    "titleEn": "Heavenwing Rewrite",
+    "genre": "アニメOP風",
+    "mood": [
+      "降臨",
+      "覚醒",
+      "光翼",
+      "空中都市",
+      "希望"
+    ],
+    "colors": [
+      "白",
+      "アイスブルー",
+      "シアン",
+      "淡い銀",
+      "空色"
+    ],
+    "summary": "巨大な光翼で空中都市へ降り立つ少女。断絶した空と地上をつなぎ、昨日の空を書き換える。",
+    "profile": {
+      "characterName": "天羽 シエル",
+      "romanization": "Amahane Ciel",
+      "sex": "女",
+      "role": "空中都市へ降臨する光翼の守護者"
+    },
+    "profileSheet": "assets/charsheets/tenyoku-rewrite/profile.png",
+    "simpleSheet": "assets/charsheets/tenyoku-rewrite/simple.png"
   }
 ]
