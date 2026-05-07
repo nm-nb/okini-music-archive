@@ -4,7 +4,7 @@
 - Source image: 本編/素材/墨閃レゾナンス_source_image.png
 - Simple sheet: 本編/キャラクターシート/墨閃レゾナンス_character_sheet_simple.png
 - Profile sheet: 本編/キャラクターシート/墨閃レゾナンス_character_sheet.png
-- Archive URL: pending
+- Archive URL: https://nm-nb.github.io/okini-music-archive/charsheets/sumisen-resonance/
 
 ## Identity
 - Character name: 黒白 リゼ
