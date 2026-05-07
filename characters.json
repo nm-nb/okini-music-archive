@@ -438,5 +438,35 @@
     },
     "profileSheet": "assets/charsheets/tenyoku-rewrite/profile.png",
     "simpleSheet": "assets/charsheets/tenyoku-rewrite/simple.png"
+  },
+  {
+    "slug": "gesshoku-code",
+    "titleJa": "月蝕コード",
+    "titleEn": "Eclipse Code",
+    "genre": "ボカロ風",
+    "mood": [
+      "月蝕",
+      "海",
+      "ノイズ",
+      "記憶",
+      "デジタルゴシック"
+    ],
+    "colors": [
+      "黒",
+      "白銀",
+      "月光ホワイト",
+      "ディープシアン",
+      "濃いマゼンタ",
+      "赤"
+    ],
+    "summary": "月蝕の海辺で壊れた記憶を歌に変換する、赤い瞳のダークボカロ風ヒロイン。",
+    "profile": {
+      "characterName": "月白 ノア",
+      "romanization": "Tsukishiro Noa",
+      "sex": "女",
+      "role": "月蝕の海辺で壊れた記憶を歌に変換するバーチャルシンガー"
+    },
+    "profileSheet": "assets/charsheets/gesshoku-code/profile.png",
+    "simpleSheet": "assets/charsheets/gesshoku-code/simple.png"
   }
 ]
