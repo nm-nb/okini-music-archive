@@ -498,5 +498,33 @@
     },
     "profileSheet": "assets/charsheets/nekofuda-koyomi/profile.png",
     "simpleSheet": "assets/charsheets/nekofuda-koyomi/simple.png"
+  },
+  {
+    "slug": "sumisen-resonance",
+    "titleJa": "墨閃レゾナンス",
+    "titleEn": "Sumisen Resonance",
+    "genre": "ボカロ風",
+    "mood": [
+      "白黒",
+      "インク",
+      "ノイズ",
+      "再起動",
+      "高速ボカロ"
+    ],
+    "colors": [
+      "黒",
+      "白",
+      "深紅",
+      "灰紫"
+    ],
+    "summary": "白黒の髪と赤い差し色を持ち、塗りつぶした声を鋭いボカロサウンドへ変換するダークヒロイン。",
+    "profile": {
+      "characterName": "黒白 リゼ",
+      "romanization": "Kuroshiro Rize",
+      "sex": "女",
+      "role": "ノイズを歌へ再起動するボカロ風エージェント"
+    },
+    "profileSheet": "assets/charsheets/sumisen-resonance/profile.png",
+    "simpleSheet": "assets/charsheets/sumisen-resonance/simple.png"
   }
 ]
