@@ -29,8 +29,21 @@
       border-radius: 8px;
       padding: 10px 12px;
       font: inherit;
+      font-size: 16px;
       background: #fff;
       color: var(--ink);
+    }
+    .quick-add {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 12px;
+      padding: 16px;
+      margin: 20px 0 18px;
+    }
+    .quick-add textarea {
+      min-height: 34vh;
+      font-family: inherit;
+      line-height: 1.8;
     }
     textarea {
       min-height: 62vh;
@@ -139,6 +152,18 @@
     </div>
     <div id="status" class="status"></div>
 
+    <section class="quick-add">
+      <h2>スマホ追記</h2>
+      <p>ここに書いて保存すると、設定ノートの「最新メモ」に追記する。</p>
+      <label for="appendTitle">見出し</label>
+      <input id="appendTitle" placeholder="例: 第6話の姉妹名">
+      <label for="appendText">追記内容</label>
+      <textarea id="appendText" placeholder="ここに設定メモを書く"></textarea>
+      <div class="editor-actions">
+        <button type="button" id="appendSave">追記して保存</button>
+      </div>
+    </section>
+
     <section class="editor-grid">
       <div class="editor-panel">
         <label for="markdown">Markdown</label>
@@ -165,6 +190,9 @@
       save: document.getElementById('save'),
       previewBtn: document.getElementById('previewBtn'),
       remember: document.getElementById('remember')
+      , appendTitle: document.getElementById('appendTitle')
+      , appendText: document.getElementById('appendText')
+      , appendSave: document.getElementById('appendSave')
     };
 
     let currentSha = null;
@@ -404,6 +432,64 @@
       }
     }
 
+    function makeAppendBlock(title, text) {
+      const now = new Date();
+      const yyyy = now.getFullYear();
+      const mm = String(now.getMonth() + 1).padStart(2, '0');
+      const dd = String(now.getDate()).padStart(2, '0');
+      const hh = String(now.getHours()).padStart(2, '0');
+      const mi = String(now.getMinutes()).padStart(2, '0');
+      const heading = title ? `#### ${title}` : `#### 追記 ${yyyy}-${mm}-${dd} ${hh}:${mi}`;
+      return `${heading}\n\n${text.trim()}\n`;
+    }
+
+    function insertLatestMemo(markdown, block) {
+      const marker = '### 最新メモ';
+      const index = markdown.indexOf(marker);
+      if (index < 0) {
+        return `${markdown.trimEnd()}\n\n## 追記メモ\n\n${block}\n`;
+      }
+      const afterMarker = index + marker.length;
+      const nextHeading = markdown.indexOf('\n### ', afterMarker);
+      if (nextHeading < 0) {
+        return `${markdown.slice(0, afterMarker)}\n\n${block}\n${markdown.slice(afterMarker).trimStart()}`;
+      }
+      return `${markdown.slice(0, afterMarker)}\n\n${block}\n${markdown.slice(afterMarker, nextHeading).trimStart()}${markdown.slice(nextHeading)}`;
+    }
+
+    async function appendAndSave() {
+      try {
+        const c = config();
+        const text = els.appendText.value.trim();
+        if (!c.owner || !c.repo || !c.token) throw new Error('Owner / Repo / token を入力してください。');
+        if (!text) throw new Error('追記内容を入力してください。');
+        setStatus('追記保存中...');
+
+        const mdData = await getContent(c.mdPath);
+        const current = decodeBase64(mdData.content);
+        const block = makeAppendBlock(els.appendTitle.value.trim(), text);
+        const nextMarkdown = insertLatestMemo(current, block);
+        await putContent(c.mdPath, nextMarkdown, mdData.sha, 'Append Lia setting note');
+
+        let htmlSha = null;
+        try {
+          htmlSha = (await getContent(c.htmlPath)).sha;
+        } catch (_) {
+          htmlSha = null;
+        }
+        const html = settingNotesHtml(nextMarkdown, currentNavHtml());
+        await putContent(c.htmlPath, html, htmlSha, 'Update Lia setting notes page');
+
+        els.markdown.value = nextMarkdown;
+        els.appendText.value = '';
+        updatePreview();
+        saveLocalConfig(false);
+        setStatus('追記して保存しました。公開ページへの反映には少し時間がかかる場合があります。');
+      } catch (error) {
+        setStatus(`追記保存失敗: ${error.message}`);
+      }
+    }
+
     function updatePreview() {
       els.preview.innerHTML = markdownToHtml(els.markdown.value);
     }
@@ -436,6 +522,7 @@
 
     els.load.addEventListener('click', loadMarkdown);
     els.save.addEventListener('click', saveMarkdown);
+    els.appendSave.addEventListener('click', appendAndSave);
     els.previewBtn.addEventListener('click', updatePreview);
     els.remember.addEventListener('click', () => saveLocalConfig(true));
     els.markdown.addEventListener('input', () => {
