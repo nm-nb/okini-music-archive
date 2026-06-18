@@ -15,6 +15,7 @@ ORDER = [
     "index.md",
     "setting-notes.md",
     "timeline.md",
+    "crossover.md",
     "structure.md",
     "world.md",
     "characters.md",
