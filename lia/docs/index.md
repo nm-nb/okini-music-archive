@@ -12,6 +12,7 @@
 - [キャラクター](characters.md)
 - [第6話：桜の下の約束](episode-06.md)
 - [第7話：小さな拳](episode-07.md)
+- [第12話：ヴェラの修行](episode-12.md)
 
 ## 制作方針
 

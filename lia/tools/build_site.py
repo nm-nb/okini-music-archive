@@ -21,6 +21,7 @@ ORDER = [
     "characters.md",
     "episode-06.md",
     "episode-07.md",
+    "episode-12.md",
 ]
 
 
