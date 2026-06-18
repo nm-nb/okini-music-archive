@@ -5,6 +5,7 @@
 ## 資料一覧
 
 - [設定ノート](setting-notes.md)
+- [タイムスケジュール](timeline.md)
 - [全体構成](structure.md)
 - [世界設定](world.md)
 - [キャラクター](characters.md)

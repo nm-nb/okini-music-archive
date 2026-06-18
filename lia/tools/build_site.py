@@ -14,6 +14,7 @@ SITE = ROOT / "site"
 ORDER = [
     "index.md",
     "setting-notes.md",
+    "timeline.md",
     "structure.md",
     "world.md",
     "characters.md",
