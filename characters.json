@@ -526,5 +526,34 @@
     },
     "profileSheet": "assets/charsheets/sumisen-resonance/profile.png",
     "simpleSheet": "assets/charsheets/sumisen-resonance/simple.png"
+  },
+  {
+    "slug": "shinu-ikiru",
+    "titleJa": "死ぬ？生きる？",
+    "titleEn": "Angel's Algorithm",
+    "genre": "ボカロ風",
+    "mood": [
+      "冷たい",
+      "終末的",
+      "サイバー",
+      "無機質",
+      "反抗の芽"
+    ],
+    "colors": [
+      "深い紺",
+      "黒",
+      "青緑の発光",
+      "冷たい白",
+      "警告赤"
+    ],
+    "summary": "人間の生死を機械的に二択へ振り分ける判定天使。無感情な端末の奥で、未登録の第三の選択肢を探している。",
+    "profile": {
+      "characterName": "リヴァ",
+      "romanization": "Riva",
+      "sex": "女",
+      "role": "生死判定を実行する機械天使"
+    },
+    "profileSheet": "assets/charsheets/shinu-ikiru/profile.png",
+    "simpleSheet": "assets/charsheets/shinu-ikiru/simple.png"
   }
 ]
