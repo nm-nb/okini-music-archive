@@ -555,5 +555,34 @@
     },
     "profileSheet": "assets/charsheets/shinu-ikiru/profile.png",
     "simpleSheet": "assets/charsheets/shinu-ikiru/simple.png"
+  },
+  {
+    "slug": "shojun-no-mukogawa",
+    "titleJa": "照準の向こう側",
+    "titleEn": "Beyond the Crosshair",
+    "genre": "アニメOP風",
+    "mood": [
+      "廃墟",
+      "反撃",
+      "緊張感",
+      "孤独",
+      "不敵"
+    ],
+    "colors": [
+      "オリーブグリーン",
+      "青緑",
+      "ブロンズ",
+      "煤けた黒",
+      "アクアブルー"
+    ],
+    "summary": "崩壊後の廃屋で大型銃を構え、傷と汚れを抱えたまま敵を見据える遊撃手。アクアブルーの瞳と不敵な笑みで、まだ外れていない照準を信じる。",
+    "profile": {
+      "characterName": "アクア・アイ",
+      "romanization": "Aqua Eye",
+      "sex": "女",
+      "role": "廃墟を駆ける遊撃手／傷を抱えた反撃の主人公"
+    },
+    "profileSheet": "assets/charsheets/shojun-no-mukogawa/profile.png",
+    "simpleSheet": "assets/charsheets/shojun-no-mukogawa/simple.png"
   }
 ]
