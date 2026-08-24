@@ -584,5 +584,34 @@
     },
     "profileSheet": "assets/charsheets/shojun-no-mukogawa/profile.png",
     "simpleSheet": "assets/charsheets/shojun-no-mukogawa/simple.png"
+  },
+  {
+    "slug": "koutou-no-kyosei",
+    "titleJa": "紅灯の虚勢",
+    "titleEn": "Pride Behind the Red Lamps",
+    "genre": "和楽器ロック",
+    "mood": [
+      "威圧",
+      "艶",
+      "雨夜",
+      "誇り",
+      "隠れた照れ"
+    ],
+    "colors": [
+      "濃紺",
+      "マゼンタ",
+      "シアン",
+      "赤い灯り",
+      "古金"
+    ],
+    "summary": "赤い灯りの雨街で、相手を試す微笑みを崩さない花魁・宵紅。誇り高い虚勢の奥に、見抜かれたくない本心を隠している。",
+    "profile": {
+      "characterName": "宵紅",
+      "romanization": "Yoibeni",
+      "sex": "女",
+      "role": "夜街を統べる花魁／誇り高い和楽器ロックの歌い手"
+    },
+    "profileSheet": "assets/charsheets/koutou-no-kyosei/profile.png",
+    "simpleSheet": "assets/charsheets/koutou-no-kyosei/simple.png"
   }
 ]
