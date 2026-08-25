@@ -558,8 +558,8 @@
   },
   {
     "slug": "shojun-no-mukogawa",
-    "titleJa": "照準の向こう側",
-    "titleEn": "Beyond the Crosshair",
+    "titleJa": "Broken Vector",
+    "titleEn": "Broken Vector",
     "genre": "アニメOP風",
     "mood": [
       "廃墟",
@@ -613,5 +613,106 @@
     },
     "profileSheet": "assets/charsheets/koutou-no-kyosei/profile.png",
     "simpleSheet": "assets/charsheets/koutou-no-kyosei/simple.png"
+  },
+  {
+    "slug": "kizuato-no-kyokai",
+    "titleJa": "傷痕の境界",
+    "titleEn": "Scarred Boundary",
+    "genre": "アニメOP風",
+    "mood": ["紅い決意", "抑制された怒り", "疾走", "戦場の余熱", "選び直す未来"],
+    "colors": ["深紅", "アクアブルー", "銀白", "濃紺", "金"],
+    "summary": "守れなかった過去を抱え、怒りを孤立ではなく未来を選ぶ力へ変える女戦士。",
+    "profile": {
+      "characterName": "アクア",
+      "romanization": "Aqua",
+      "sex": "女",
+      "role": "焼けた境界を越え、怒りを選択の力へ変える女戦士"
+    },
+    "profileSheet": "assets/charsheets/kizuato-no-kyokai/profile.png"
+  },
+  {
+    "slug": "narabanai-kakugo",
+    "titleJa": "並ばない覚悟",
+    "titleEn": "Resolve to Stand Apart",
+    "genre": "和楽器ロック",
+    "mood": ["侍", "覚悟", "父の背中", "赤い鳥居", "一閃"],
+    "colors": ["黒", "白", "朱", "深紅", "金"],
+    "summary": "父の背中を追うのではなく、自分だけの道を斬り拓く若き剣士。",
+    "profile": {
+      "characterName": "並ばない覚悟の剣士",
+      "romanization": "Narabanai Kakugo",
+      "sex": "男",
+      "role": "誰かと同じ道を歩まず、自分の覚悟で刃を振るう侍"
+    },
+    "profileSheet": "assets/charsheets/narabanai-kakugo/profile.png",
+    "simpleSheet": "assets/charsheets/narabanai-kakugo/simple.png"
+  },
+  {
+    "slug": "mikansei-no-chikai",
+    "titleJa": "未完成の誓い",
+    "titleEn": "Unfinished Vow",
+    "genre": "アニメED風",
+    "mood": ["別れ", "翼", "記憶", "静かな決意", "余韻"],
+    "colors": ["黒", "白", "銀", "深紅", "薄青"],
+    "summary": "終わりを散らさないと誓い、欠けた翼と記憶を抱えて歩き続ける守護者。",
+    "profile": {
+      "characterName": "誓羽 ミオ",
+      "romanization": "Chikaiha Mio",
+      "sex": "女",
+      "role": "誰かの終わりを受け止め、未完成の誓いを守る翼の守護者"
+    },
+    "profileSheet": "assets/charsheets/mikansei-no-chikai/profile.png",
+    "simpleSheet": "assets/charsheets/mikansei-no-chikai/simple.png"
+  },
+  {
+    "slug": "aoi-zankyo",
+    "titleJa": "蒼い残響",
+    "titleEn": "Azure Echo",
+    "genre": "和楽器ポップ",
+    "mood": ["風", "水", "音", "静けさ", "祈り"],
+    "colors": ["濃紺", "青", "紫", "水色", "銀"],
+    "summary": "祈りと音を重ね、風と水の気配をまとって遠くの心へ響かせる奏者。",
+    "profile": {
+      "characterName": "蒼音 リン",
+      "romanization": "Aone Rin",
+      "sex": "女",
+      "role": "風と水の旋律を操る祈奏師"
+    },
+    "profileSheet": "assets/charsheets/aoi-zankyo/profile.png",
+    "simpleSheet": "assets/charsheets/aoi-zankyo/simple.png"
+  },
+  {
+    "slug": "asufaruto-ni-hiroguru-seiza",
+    "titleJa": "アスファルトに広がる星座",
+    "titleEn": "Constellations Across Asphalt",
+    "genre": "アニメED風",
+    "mood": ["夜道", "街", "ギター", "青春", "小さな希望"],
+    "colors": ["ティール", "コーラル", "ネイビー", "オフホワイト", "橙"],
+    "summary": "街の隙間に音を鳴らし、アスファルトの夜へ自分の星座を描く少年ギタリスト。",
+    "profile": {
+      "characterName": "青空 響",
+      "romanization": "Hibiki Aozora",
+      "sex": "男の子",
+      "role": "街角から音を届ける中学生ギタリスト"
+    },
+    "profileSheet": "assets/charsheets/asufaruto-ni-hiroguru-seiza/profile.png",
+    "simpleSheet": "assets/charsheets/asufaruto-ni-hiroguru-seiza/simple.png"
+  },
+  {
+    "slug": "hoshizora-no-yakusoku",
+    "titleJa": "星空の約束",
+    "titleEn": "Promise Under the Stars",
+    "genre": "和楽器ポップ",
+    "mood": ["祭り", "夜", "三味線", "ぬくもり", "約束"],
+    "colors": ["藍", "朱", "山吹", "青緑", "生成り"],
+    "summary": "祭りの夜に三味線を奏で、音で心を灯す和装の若き奏者。",
+    "profile": {
+      "characterName": "星宮 ユイ",
+      "romanization": "Hoshimiya Yui",
+      "sex": "女",
+      "role": "祭りの夜に音で約束を届ける三味線奏者"
+    },
+    "profileSheet": "assets/charsheets/hoshizora-no-yakusoku/profile.png",
+    "simpleSheet": "assets/charsheets/hoshizora-no-yakusoku/simple.png"
   }
 ]
