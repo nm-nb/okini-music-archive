@@ -1,5 +1,59 @@
 [
   {
+    "slug": "zansho-no-mukou-e",
+    "titleJa": "残照の向こうへ",
+    "titleEn": "Beyond the Afterglow",
+    "genre": "和楽器ロック",
+    "mood": [
+      "悔しさ",
+      "余熱",
+      "静かな判断",
+      "再出発"
+    ],
+    "colors": [
+      "墨黒",
+      "炭灰",
+      "橙",
+      "青緑"
+    ],
+    "summary": "七年守ってきた橋の再建をやめられない剣士、黒瀬朔。川筋も街道も移った土地で、過去の努力への悔しさを抱えながら、残った木材を今の暮らしへ渡す。",
+    "profile": {
+      "characterName": "黒瀬 朔",
+      "romanization": "Kurose Saku",
+      "sex": "女",
+      "age": 24,
+      "role": "旧街道の元守り手、船大工の家で育った剣士"
+    },
+    "profileSheet": "assets/charsheets/zansho-no-mukou-e/profile.png"
+  },
+  {
+    "slug": "asu-wo-hanasuna",
+    "titleJa": "明日を離すな",
+    "titleEn": "Hold On to Tomorrow",
+    "genre": "アニメOP風",
+    "mood": [
+      "強がり",
+      "ためらい",
+      "共闘",
+      "夜明け"
+    ],
+    "colors": [
+      "墨黒",
+      "古金",
+      "朱赤",
+      "橙",
+      "灰青"
+    ],
+    "summary": "人に任せることが怖く、限界でも「平気」と笑う双剣の隊長、篝 朱璃。灰嵐の避難路で、自分の限界を伝え、仲間の名を呼ぶ。",
+    "profile": {
+      "characterName": "篝 朱璃",
+      "romanization": "Kagari Akari",
+      "sex": "女",
+      "role": "灰灯の街の避難路を守る双剣の隊長"
+    },
+    "profileSheet": "assets/charsheets/asu-wo-hanasuna/profile.png"
+  },
+  {
     "slug": "maximum-dash",
     "titleJa": "マキシマムダッシュ",
     "titleEn": "Maximum Dash",
