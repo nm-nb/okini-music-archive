@@ -1,5 +1,38 @@
 [
   {
+    "slug": "sekka-dangetsu",
+    "titleJa": "雪華断月",
+    "titleEn": "Snowblossom Mooncleaver",
+    "genre": "和楽器ロック",
+    "mood": [
+      "冷たい緊張",
+      "誇り",
+      "苦い訂正",
+      "鋭い解放"
+    ],
+    "energy": "154 BPM",
+    "colors": [
+      "雪白",
+      "墨黒",
+      "朱赤",
+      "琥珀"
+    ],
+    "summary": "誤りを認めれば信用を失うと思い、言い訳を重ねる雪の関所の剣士、霜宮紗月。止めた通行人へ札を返し、自分の判断が生んだ不利益を取り除く。",
+    "profile": {
+      "characterName": "霜宮 紗月",
+      "romanization": "Shimomiya Satsuki",
+      "sex": "女",
+      "age": "24歳（創作設定）",
+      "role": "雪の関所の当番頭",
+      "appearance": "高い位置で結んだ長い黒髪、琥珀の目、黒い和装剣士服、赤帯、長刀と黒い鞘。",
+      "personality": "仕事に誇りがあり、間違いの訂正を求められると弁解が長くなる。",
+      "centralProblem": "誤認を認めると信用を失うと思い、謝罪と足止め解除ができない。",
+      "desiredChange": "見落としを認めて謝り、札と荷を戻す。即座の赦しを条件にしない。"
+    },
+    "profileSheet": "assets/charsheets/sekka-dangetsu/profile.png",
+    "profilePreview": "assets/charsheets/sekka-dangetsu/profile-preview.jpg"
+  },
+  {
     "slug": "zansho-no-mukou-e",
     "titleJa": "残照の向こうへ",
     "titleEn": "Beyond the Afterglow",
