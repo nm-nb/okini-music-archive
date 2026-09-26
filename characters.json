@@ -1,5 +1,35 @@
 [
   {
+    "slug": "yakai-error-code",
+    "titleJa": "夜界エラーコード",
+    "titleEn": "Error Code: Midnight",
+    "genre": "アニメOP風",
+    "mood": [
+      "緊迫",
+      "疾走",
+      "冷たい雨",
+      "理解の接続"
+    ],
+    "energy": "158 BPM",
+    "colors": [
+      "ミッドナイトネイビー",
+      "黒",
+      "青紫",
+      "深紅",
+      "冷たい白"
+    ],
+    "summary": "短い符号だけで意図まで伝わったと思い込む、夜界の境界監視員・黒瀬玲夜。違う景色を見ていた相棒へ問い返し、観測した事実と行動案を分けて、二人の経路を重ねる。",
+    "profile": {
+      "characterName": "黒瀬 玲夜",
+      "romanization": "Reiya Kurose",
+      "sex": "女",
+      "age": "19〜23歳（創作設定）",
+      "role": "雨天高層区の境界監視員"
+    },
+    "profileSheet": "assets/charsheets/yakai-error-code/profile.png",
+    "profilePreview": "assets/charsheets/yakai-error-code/profile-preview.jpg"
+  },
+  {
     "slug": "sekka-dangetsu",
     "titleJa": "雪華断月",
     "titleEn": "Snowblossom Mooncleaver",
