@@ -29,6 +29,272 @@
     "profilePreview": "assets/charsheets/fumikiru-issen/profile-preview.jpg"
   },
   {
+    "slug": "seicho",
+    "titleJa": "青桃",
+    "titleEn": "Blue Sky, Peach Dawn",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "164 BPM",
+    "colors": [
+      "青",
+      "水色",
+      "桃"
+    ],
+    "summary": "澄羽は、他人の成果ばかり数え、自分が直せた動作を捨てて無闇に練習量を増やすという行き詰まりを抱える剣士。同じ条件で昨日と今日の動きを記録し、自分の小さな進歩を確かめる。",
+    "profile": {
+      "characterName": "澄羽",
+      "romanization": "Sumiha",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "比較による進歩の見失いを越えてゆく和風世界の剣士",
+      "centralProblem": "仲間の昇級を見るたび、自分だけ成長していないと思う",
+      "desiredChange": "同じ条件で昨日と今日の動きを記録し、自分の小さな進歩を確かめる"
+    },
+    "profileSheet": "assets/charsheets/seicho/profile.png",
+    "profilePreview": "assets/charsheets/seicho/profile-preview.jpg"
+  },
+  {
+    "slug": "mayoi-zaki",
+    "titleJa": "迷い咲き",
+    "titleEn": "Bloom through Doubt",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "168 BPM",
+    "colors": [
+      "朱",
+      "橙",
+      "金",
+      "黒"
+    ],
+    "summary": "花緒は、複数の稽古先の長短を延々と比べ、どの門も叩けないという行き詰まりを抱える剣士。自分が譲れない基準で候補を絞り、迷いを残しながら一つを選ぶ。",
+    "profile": {
+      "characterName": "花緒",
+      "romanization": "Hanao",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "最高の選択への固執を越えてゆく和風世界の剣士",
+      "centralProblem": "別の道を選べばもっと良い結果だったと後悔するのが怖い",
+      "desiredChange": "自分が譲れない基準で候補を絞り、迷いを残しながら一つを選ぶ"
+    },
+    "profileSheet": "assets/charsheets/mayoi-zaki/profile.png",
+    "profilePreview": "assets/charsheets/mayoi-zaki/profile-preview.jpg"
+  },
+  {
+    "slug": "kurenai-no-yaiba",
+    "titleJa": "紅の刃",
+    "titleEn": "The Crimson Blade",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "156 BPM",
+    "colors": [
+      "青灰",
+      "濃紺",
+      "紅"
+    ],
+    "summary": "紅葉は、侮辱のたびに先に斬りかかり、相手の誘いへ入って守る位置を空けるという行き詰まりを抱える剣士。一度距離を取り、怒りの下の悔しさを言葉で認めて、守る目的に沿う動きを選ぶ。",
+    "profile": {
+      "characterName": "紅葉",
+      "romanization": "Momiji",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "挑発への衝動的な反応を越えてゆく和風世界の剣士",
+      "centralProblem": "侮辱に反応しなければ弱いと思われる",
+      "desiredChange": "一度距離を取り、怒りの下の悔しさを言葉で認めて、守る目的に沿う動きを選ぶ"
+    },
+    "profileSheet": "assets/charsheets/kurenai-no-yaiba/profile.png",
+    "profilePreview": "assets/charsheets/kurenai-no-yaiba/profile-preview.jpg"
+  },
+  {
+    "slug": "asu-wo-kire",
+    "titleJa": "明日を斬れ",
+    "titleEn": "Cut through Tomorrow",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "168 BPM",
+    "colors": [
+      "鮮紅",
+      "紺",
+      "青"
+    ],
+    "summary": "朱音は、まだ起きない展開を頭で何度も再生し、今日の稽古が止まるという行き詰まりを抱える剣士。心配を扱う時刻を決め、今は今日の動作へ戻る。",
+    "profile": {
+      "characterName": "朱音",
+      "romanization": "Akane",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "未来の心配による現在の停止を越えてゆく和風世界の剣士",
+      "centralProblem": "明日の試合の失敗や評価を想像して確かめずにはいられない",
+      "desiredChange": "心配を扱う時刻を決め、今は今日の動作へ戻る"
+    },
+    "profileSheet": "assets/charsheets/asu-wo-kire/profile.png",
+    "profilePreview": "assets/charsheets/asu-wo-kire/profile-preview.jpg"
+  },
+  {
+    "slug": "waga-michi-wo-yuku",
+    "titleJa": "我が道を逝く",
+    "titleEn": "My Path, My Resolve",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "160 BPM",
+    "colors": [
+      "薄生成り",
+      "青緑",
+      "朱",
+      "黒"
+    ],
+    "summary": "紗路は、旅の目的に役立つ助言まで反射的に拒み、確かめず難しい経路を選ぶという行き詰まりを抱える剣士。自分が大切にしたい目的を言葉にし、助言を自分で検討して必要なものを採用できる。",
+    "profile": {
+      "characterName": "紗路",
+      "romanization": "Saro",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "自立と反抗の取り違えを越えてゆく和風世界の剣士",
+      "centralProblem": "人の助言を採用すると自分で選んだ道ではなくなる",
+      "desiredChange": "自分が大切にしたい目的を言葉にし、助言を自分で検討して必要なものを採用できる"
+    },
+    "profileSheet": "assets/charsheets/waga-michi-wo-yuku/profile.png",
+    "profilePreview": "assets/charsheets/waga-michi-wo-yuku/profile-preview.jpg"
+  },
+  {
+    "slug": "koshin-wo-seou",
+    "titleJa": "紅神を背負う",
+    "titleEn": "Bearer of the Crimson God",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "160 BPM",
+    "colors": [
+      "夕紅",
+      "黒",
+      "橙"
+    ],
+    "summary": "紅祢は、古い門の守り方だけを守り、守るべき人が新しい道へ移ったことを認めないという行き詰まりを抱える剣士。受け継いだ教えの目的を問い、自分が守りたい価値に沿って役目の実践を変える。",
+    "profile": {
+      "characterName": "紅祢",
+      "romanization": "Akane",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "継承した教えの字義への固執を越えてゆく和風世界の剣士",
+      "centralProblem": "伝承された作法を変えると守護神への裏切りになる",
+      "desiredChange": "受け継いだ教えの目的を問い、自分が守りたい価値に沿って役目の実践を変える"
+    },
+    "profileSheet": "assets/charsheets/koshin-wo-seou/profile.png",
+    "profilePreview": "assets/charsheets/koshin-wo-seou/profile-preview.jpg"
+  },
+  {
+    "slug": "shutsugeki-no-jin",
+    "titleJa": "出撃の陣",
+    "titleEn": "Formation for the Advance",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "164 BPM",
+    "colors": [
+      "青緑",
+      "白",
+      "黒",
+      "赤"
+    ],
+    "summary": "陣花は、全員が賛成した配置に危険を見つけても黙り、不安を抱えたまま位置へつくという行き詰まりを抱える剣士。相手を否定せず見つけた事実と代案を伝え、検討した配置で出撃する。",
+    "profile": {
+      "characterName": "陣花",
+      "romanization": "Jinka",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "集団に異論を言えない同調を越えてゆく和風世界の剣士",
+      "centralProblem": "出撃前に異論を言うと仲間の結束を乱すと思う",
+      "desiredChange": "相手を否定せず見つけた事実と代案を伝え、検討した配置で出撃する"
+    },
+    "profileSheet": "assets/charsheets/shutsugeki-no-jin/profile.png",
+    "profilePreview": "assets/charsheets/shutsugeki-no-jin/profile-preview.jpg"
+  },
+  {
+    "slug": "enkai-no-jato",
+    "titleJa": "炎海の邪刀",
+    "titleEn": "The Forbidden Blade of the Flame Sea",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "164 BPM",
+    "colors": [
+      "青",
+      "橙",
+      "金",
+      "黒"
+    ],
+    "summary": "焔凪は、人からの呼び名を自分の本質とみなし、救助の申し出を拒んで破壊へ逃げるという行き詰まりを抱える剣士。邪という声を頭に浮かぶ言葉として捉え直し、実際の一振りで塞がれた道を開く。",
+    "profile": {
+      "characterName": "焔凪",
+      "romanization": "Homunagi",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "悪い呼び名との自己同一化を越えてゆく和風世界の剣士",
+      "centralProblem": "邪刀を持つ自分には壊す役しかないと思う",
+      "desiredChange": "邪という声を頭に浮かぶ言葉として捉え直し、実際の一振りで塞がれた道を開く"
+    },
+    "profileSheet": "assets/charsheets/enkai-no-jato/profile.png",
+    "profilePreview": "assets/charsheets/enkai-no-jato/profile-preview.jpg"
+  },
+  {
+    "slug": "kien-banjo",
+    "titleJa": "気炎万丈",
+    "titleEn": "Spirit Ablaze",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "168 BPM",
+    "colors": [
+      "金",
+      "橙",
+      "紅",
+      "紫灰"
+    ],
+    "summary": "陽華は、勝てる相手と得意な技だけを選び、挑戦を避けるという行き詰まりを抱える剣士。勝敗以外の学習目標を定め、不確実な相手との稽古へ参加する。",
+    "profile": {
+      "characterName": "陽華",
+      "romanization": "Haruka",
+      "sex": "女",
+      "age": "若い女性のアニメ表現。年齢の創作設定は20歳。",
+      "role": "成功者の評判を守る挑戦回避を越えてゆく和風世界の剣士",
+      "centralProblem": "新しい技で負ければ、今までの勝者という評価まで失う",
+      "desiredChange": "勝敗以外の学習目標を定め、不確実な相手との稽古へ参加する"
+    },
+    "profileSheet": "assets/charsheets/kien-banjo/profile.png",
+    "profilePreview": "assets/charsheets/kien-banjo/profile-preview.jpg"
+  },
+  {
     "slug": "ochinai-souten",
     "titleJa": "墜ちない蒼天",
     "titleEn": "A Sky That Will Not Fall",
