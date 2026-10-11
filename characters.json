@@ -1,5 +1,34 @@
 [
   {
+    "slug": "fumikiru-issen",
+    "titleJa": "踏み斬る一閃",
+    "titleEn": "A Step Beyond",
+    "genre": "和楽器ロック",
+    "mood": [
+      "凛とした響き",
+      "前進",
+      "疾走"
+    ],
+    "energy": "164 BPM",
+    "colors": [
+      "紅",
+      "濃紺",
+      "淡い青緑"
+    ],
+    "summary": "以前の敗北を思い出すたび足を引く剣士、燈花。安全な稽古で間合いを段階的に縮め、怖さを抱えたまま自分から前足を置く。",
+    "profile": {
+      "characterName": "燈花",
+      "romanization": "Toka",
+      "sex": "女",
+      "age": "20歳（創作設定）",
+      "role": "和風世界の剣士",
+      "centralProblem": "攻めに転じる瞬間に以前の敗北を思い出し、足を引いてしまう",
+      "desiredChange": "安全な稽古で距離を段階的に縮め、怖さが残るまま自分から踏み込める"
+    },
+    "profileSheet": "assets/charsheets/fumikiru-issen/profile.png",
+    "profilePreview": "assets/charsheets/fumikiru-issen/profile-preview.jpg"
+  },
+  {
     "slug": "ochinai-souten",
     "titleJa": "墜ちない蒼天",
     "titleEn": "A Sky That Will Not Fall",
