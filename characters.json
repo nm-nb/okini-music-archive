@@ -1290,5 +1290,35 @@
     },
     "profileSheet": "assets/charsheets/sorai-saiki/profile.png",
     "profilePreview": "assets/charsheets/sorai-saiki/profile-preview.jpg"
+  },
+  {
+    "slug": "fusaida-katamimi",
+    "titleJa": "塞いだ片耳",
+    "titleEn": "Find My Tone",
+    "genre": "アニメOP風",
+    "mood": [
+      "夕暮れの疾走",
+      "聞こえないふり",
+      "まだ怖いまま走る"
+    ],
+    "energy": "172 BPM",
+    "colors": [
+      "濃紺",
+      "黒",
+      "赤",
+      "夕日のピンク"
+    ],
+    "summary": "宵野ミサキは、一年前の本番で自分の声が返ってこず歌えなくなったことを「才能がない証拠」と決めつけ、確定するのが怖くて、聞こえてくる曲や仲間の誘いから逃げ続けてきた高校生。止まった場所を言葉にして原因を具体的な出来事として見直し、「もしまた声が聞こえなくなったら」の手順を決めて、人のいる場所で一度声を出す。",
+    "profile": {
+      "characterName": "宵野ミサキ",
+      "romanization": "Yoino Misaki",
+      "sex": "女",
+      "age": "10代後半に見える（創作設定）",
+      "role": "一年前にバンドのボーカルをやめた高校生",
+      "centralProblem": "一度の本番で歌えなくなったことを才能がない証拠と決めつけ、確定するのを恐れて歌うことにつながる音や誘いを避けている",
+      "desiredChange": "止まった場所と状況を書き出して原因を具体的な出来事として見直し、if-thenの小さな手順を決めて人前で一度声を出す"
+    },
+    "profileSheet": "assets/charsheets/fusaida-katamimi/profile.png",
+    "profilePreview": "assets/charsheets/fusaida-katamimi/profile-preview.jpg"
   }
 ]
